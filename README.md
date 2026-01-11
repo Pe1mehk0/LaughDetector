@@ -3,7 +3,7 @@
 This project implements a sequence-labeling system to detect laughter in complex audio environments. Using Long Short-Term Memory (LSTM) network, the model analyzes acoustic features to identify laughter.
 
 # 🚀 Performance Highlights
-Validation F1-Score: 0.9369
+Validation F1-Score: 0.9252
 
 Recall: 95.83% (Optimized to ensure minimal missed detections)
 
