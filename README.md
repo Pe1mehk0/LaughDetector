@@ -9,6 +9,8 @@ Recall: 95.83% (Optimized to ensure minimal missed detections)
 
 Accuracy: 96.07%
 
+Precision: 89.88%
+
 # 🛠 Project Architecture
 Laughter is a context-dependent acoustic event. A standard feed-forward network treats audio frames in isolation, but this project utilizes a Bi-LSTM to capture temporal context:
 
