@@ -5,7 +5,7 @@ This project implements a sequence-labeling system to detect laughter in complex
 # 🚀 Performance Highlights
 Validation F1-Score: 0.9252
 
-Recall: 95.83% (Optimized to ensure minimal missed detections)
+Recall: 95.83%
 
 Accuracy: 96.07%
 
